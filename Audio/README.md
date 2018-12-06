@@ -1,1 +1,1 @@
-In this section you will find all resources/models/code relative to Audio Sentiment Analysis.
+In this section you will find all resources/models/codes relative to Audio Sentiment Analysis.
