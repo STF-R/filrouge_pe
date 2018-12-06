@@ -1,1 +1,1 @@
-In this section you will find all Python scripts and Jupyter Notebook relatives to Audio Sentiment Analysis.
+In this section you will find all Python scripts (.py) and Jupyter Notebook (.ipynb) relatives to Audio Sentiment Analysis.
